@@ -1,0 +1,19 @@
+{
+  "seed_size": 5000,
+  "batch_size": 50,
+  "rounds": 500,
+  "alpha0": 0.2,
+  "beta0": 9.8,
+  "topk_clusters": 50,
+  "alloc": "proportional",
+  "random_state": 0,
+  "models_per_query": 5,
+  "pdb_glob": "output_nomsa/*.pdb",
+  "poll_seconds": 60,
+  "job_timeout_hours": 72.0,
+  "plddt_threshold": 70.0,
+  "dist_threshold": 20.0,
+  "plddt_run_length": 6,
+  "key_residues": "I42,E43,I44",
+  "binder_rule": "four_of_five"
+}
