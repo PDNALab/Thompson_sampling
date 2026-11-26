@@ -1,0 +1,13 @@
+method,thr,n_clusters,n_peptides,n_binders
+cdhit,0.4,5546,142338,3393
+cdhit,0.5,8004,142338,3393
+cdhit,0.7,13578,142338,3393
+cdhit,0.9,39032,142338,3393
+easycluster,0.4,5975,142338,3393
+easycluster,0.5,6641,142338,3393
+easycluster,0.7,13261,142338,3393
+easycluster,0.9,37128,142338,3393
+easylinclust,0.4,10391,142338,3393
+easylinclust,0.5,11863,142338,3393
+easylinclust,0.7,21573,142338,3393
+easylinclust,0.9,71750,142338,3393

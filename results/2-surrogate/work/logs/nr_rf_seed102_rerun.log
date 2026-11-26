@@ -1,0 +1,76 @@
+nr0_rf_seed102.npz exists; skipped
+nr1_rf_seed102.npz exists; skipped
+nr2_rf_seed102.npz exists; skipped
+nr3_rf_seed102.npz exists; skipped
+nr4_rf_seed102.npz exists; skipped
+nr5_rf_seed102.npz exists; skipped
+nr6_rf_seed102.npz exists; skipped
+nr7_rf_seed102.npz exists; skipped
+nr8_rf_seed102.npz: N 5756, binders 164, clusters 5284, seed set 202, cap 5756
+seed 102: seed set 202, binders in seed 0
+  round 100 queried 5202 binders 158 (4.7%) last-100-round hit rate 0.032 elapsed fit+score 67s
+saved /orange/alberto.perezant/jokent.gaza/Thompson_sampling/results/2-surrogate/data/window/runs/nr8_rf_seed102.npz
+nr9_rf_seed102.npz: N 5741, binders 145, clusters 5254, seed set 202, cap 5741
+seed 102: seed set 202, binders in seed 4
+  round 100 queried 5202 binders 139 (4.1%) last-100-round hit rate 0.027 elapsed fit+score 65s
+saved /orange/alberto.perezant/jokent.gaza/Thompson_sampling/results/2-surrogate/data/window/runs/nr9_rf_seed102.npz
+nr10_rf_seed102.npz: N 5725, binders 136, clusters 5257, seed set 201, cap 5725
+seed 102: seed set 201, binders in seed 6
+  round 100 queried 5201 binders 133 (3.9%) last-100-round hit rate 0.025 elapsed fit+score 63s
+saved /orange/alberto.perezant/jokent.gaza/Thompson_sampling/results/2-surrogate/data/window/runs/nr10_rf_seed102.npz
+nr11_rf_seed102.npz: N 5705, binders 131, clusters 5245, seed set 200, cap 5705
+seed 102: seed set 200, binders in seed 4
+  round 100 queried 5200 binders 128 (3.8%) last-100-round hit rate 0.025 elapsed fit+score 63s
+saved /orange/alberto.perezant/jokent.gaza/Thompson_sampling/results/2-surrogate/data/window/runs/nr11_rf_seed102.npz
+nr12_rf_seed102.npz: N 5684, binders 130, clusters 5238, seed set 200, cap 5684
+seed 102: seed set 200, binders in seed 6
+  round 100 queried 5200 binders 127 (3.7%) last-100-round hit rate 0.024 elapsed fit+score 63s
+saved /orange/alberto.perezant/jokent.gaza/Thompson_sampling/results/2-surrogate/data/window/runs/nr12_rf_seed102.npz
+nr13_rf_seed102.npz: N 5669, binders 130, clusters 5232, seed set 199, cap 5669
+seed 102: seed set 199, binders in seed 3
+  round 100 queried 5199 binders 127 (3.7%) last-100-round hit rate 0.025 elapsed fit+score 63s
+saved /orange/alberto.perezant/jokent.gaza/Thompson_sampling/results/2-surrogate/data/window/runs/nr13_rf_seed102.npz
+nr14_rf_seed102.npz: N 5651, binders 129, clusters 5197, seed set 199, cap 5651
+seed 102: seed set 199, binders in seed 5
+  round 100 queried 5199 binders 126 (3.7%) last-100-round hit rate 0.024 elapsed fit+score 65s
+saved /orange/alberto.perezant/jokent.gaza/Thompson_sampling/results/2-surrogate/data/window/runs/nr14_rf_seed102.npz
+nr15_rf_seed102.npz: N 5640, binders 134, clusters 5190, seed set 198, cap 5640
+seed 102: seed set 198, binders in seed 2
+  round 100 queried 5198 binders 133 (3.9%) last-100-round hit rate 0.026 elapsed fit+score 65s
+saved /orange/alberto.perezant/jokent.gaza/Thompson_sampling/results/2-surrogate/data/window/runs/nr15_rf_seed102.npz
+nr16_rf_seed102.npz: N 5622, binders 132, clusters 5183, seed set 197, cap 5622
+seed 102: seed set 197, binders in seed 7
+  round 100 queried 5197 binders 130 (3.8%) last-100-round hit rate 0.025 elapsed fit+score 66s
+saved /orange/alberto.perezant/jokent.gaza/Thompson_sampling/results/2-surrogate/data/window/runs/nr16_rf_seed102.npz
+nr17_rf_seed102.npz: N 5605, binders 128, clusters 5188, seed set 197, cap 5605
+seed 102: seed set 197, binders in seed 3
+  round 100 queried 5197 binders 127 (3.7%) last-100-round hit rate 0.025 elapsed fit+score 62s
+saved /orange/alberto.perezant/jokent.gaza/Thompson_sampling/results/2-surrogate/data/window/runs/nr17_rf_seed102.npz
+nr18_rf_seed102.npz: N 5591, binders 135, clusters 5184, seed set 196, cap 5591
+seed 102: seed set 196, binders in seed 5
+  round 100 queried 5196 binders 135 (4.0%) last-100-round hit rate 0.026 elapsed fit+score 66s
+saved /orange/alberto.perezant/jokent.gaza/Thompson_sampling/results/2-surrogate/data/window/runs/nr18_rf_seed102.npz
+nr19_rf_seed102.npz: N 5577, binders 138, clusters 5162, seed set 196, cap 5577
+seed 102: seed set 196, binders in seed 3
+  round 100 queried 5196 binders 137 (4.0%) last-100-round hit rate 0.027 elapsed fit+score 71s
+saved /orange/alberto.perezant/jokent.gaza/Thompson_sampling/results/2-surrogate/data/window/runs/nr19_rf_seed102.npz
+nr20_rf_seed102.npz: N 5558, binders 132, clusters 5147, seed set 195, cap 5558
+seed 102: seed set 195, binders in seed 2
+  round 100 queried 5195 binders 132 (3.9%) last-100-round hit rate 0.026 elapsed fit+score 65s
+saved /orange/alberto.perezant/jokent.gaza/Thompson_sampling/results/2-surrogate/data/window/runs/nr20_rf_seed102.npz
+nr21_rf_seed102.npz: N 5540, binders 122, clusters 5140, seed set 195, cap 5540
+seed 102: seed set 195, binders in seed 4
+  round 100 queried 5195 binders 121 (3.6%) last-100-round hit rate 0.023 elapsed fit+score 68s
+saved /orange/alberto.perezant/jokent.gaza/Thompson_sampling/results/2-surrogate/data/window/runs/nr21_rf_seed102.npz
+nr22_rf_seed102.npz: N 5531, binders 131, clusters 5131, seed set 194, cap 5531
+seed 102: seed set 194, binders in seed 5
+  round 100 queried 5194 binders 131 (3.9%) last-100-round hit rate 0.025 elapsed fit+score 68s
+saved /orange/alberto.perezant/jokent.gaza/Thompson_sampling/results/2-surrogate/data/window/runs/nr22_rf_seed102.npz
+nr23_rf_seed102.npz: N 5515, binders 120, clusters 5122, seed set 194, cap 5515
+seed 102: seed set 194, binders in seed 1
+  round 100 queried 5194 binders 120 (3.5%) last-100-round hit rate 0.024 elapsed fit+score 66s
+saved /orange/alberto.perezant/jokent.gaza/Thompson_sampling/results/2-surrogate/data/window/runs/nr23_rf_seed102.npz
+nr24_rf_seed102.npz: N 5502, binders 124, clusters 5108, seed set 193, cap 5502
+seed 102: seed set 193, binders in seed 2
+  round 100 queried 5193 binders 124 (3.7%) last-100-round hit rate 0.024 elapsed fit+score 63s
+saved /orange/alberto.perezant/jokent.gaza/Thompson_sampling/results/2-surrogate/data/window/runs/nr24_rf_seed102.npz
