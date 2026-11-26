@@ -1,6 +1,12 @@
 tmp/
-online.py
-tests/
 .venv/
 .pytest_cache/
+sandbox/
 __pycache__/
+CLAUDE.md
+results/**/*.npz
+results/**/*.out
+results/**/*.err
+results/**/*F470.npy
+results/4-additional/data/covid/raw/*
+!results/4-additional/data/covid/raw/README.md

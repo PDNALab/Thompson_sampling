@@ -1,0 +1,8 @@
+name,kind,dist,plddt,n_binders,known_kept
+d8,dist,8,70,186,0
+d10,dist,10,70,1489,2
+d12,dist,12,70,2707,4
+d15,dist,15,70,3175,5
+d20,dist,20,70,3393,5
+p60,plddt,20,60,4136,5
+p80,plddt,20,80,1435,5
